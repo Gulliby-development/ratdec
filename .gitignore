@@ -1,0 +1,6 @@
+*.db
+_build/
+deps/
+*.ez
+erl_crash.dump
+/ratdec
